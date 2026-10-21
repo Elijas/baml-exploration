@@ -1,7 +1,7 @@
 generator target {
     output_type "python/pydantic"
     output_dir "."
-    version "0.87.2"
+    version "0.90.1"
     default_client_mode async
 }
 // client<llm> LocalAudioModel {
